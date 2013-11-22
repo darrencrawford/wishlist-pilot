@@ -2,13 +2,13 @@ Wishlist Pilot
 =========
 Connect your Wishlist Member to Office Autopilot / Ontraport to give you the ability to control users from inside OAP.
 
-
+Zip up the files and upload to Wordpress as a plugin.
 
 System Requirements:
 1.	Wishlist Member v2.71.1330 or higher
 2.	cURL 7.19.7 or higher is required for the Wishlist Member API
 
-SETUP:
+SETUP
 1.	Install plugin
 2.	Get your Wishlist API Key:
 1.	Wishlist Member > Settings > Miscellaneous
