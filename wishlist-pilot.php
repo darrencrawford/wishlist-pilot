@@ -1,11 +1,10 @@
 <?php
 /*
-Plugin Name: WishList OAP Linker
+Plugin Name: WishList Pilot
 Plugin URI: darrencrawford.com
-Description: Send Wishlist Levels to Office Autopilot
-Author: Mark Winstein and Andrei Glazunov
-Commissioned by: Darren Crawford
-Version: 0.1.5
+Description: Send Wishlist Levels to Office Autopilot/Ontraport
+Author: Darren Crawford
+Version: 1.0.0
 Author URI: darrencrawford.com
 */
 
